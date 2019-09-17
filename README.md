@@ -1,6 +1,6 @@
-# Repositorio de prueba...BORRAR
+# Repositorio de prueba
 
-AVE_IO_IOS
+AVE_IO_IOS, probando como subir un repositorio :d
 
-Borrar: Aplicación móvil en IOS de método de investigación de operaciones
+Aplicación móvil en IOS de método de investigación de operaciones
 
